@@ -1,2 +1,2 @@
-# Codesandbox-github-Netflix-Clone
+# Netflix-Clone
 Created with CodeSandbox
